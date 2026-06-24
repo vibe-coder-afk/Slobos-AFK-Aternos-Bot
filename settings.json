@@ -8,7 +8,7 @@
   "server": {
     "ip": "blackedboat.aternos.me",
     "port": 46038,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,6 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
